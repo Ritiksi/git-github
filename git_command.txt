@@ -51,3 +51,6 @@
    51  git commmit -m "Delete git_commmands.txt
    52  git commit -m "Delete git_commands.txt"
    53  history
+   ritik tum theek ho 
+   ha mai theek hu yaar 
+   aur tum bato bhai 
